@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fishertask2/static/css/main.f45e64f2.chunk.css",
+    "main.js": "/fishertask2/static/js/main.b7dd2a63.chunk.js",
+    "main.js.map": "/fishertask2/static/js/main.b7dd2a63.chunk.js.map",
+    "runtime-main.js": "/fishertask2/static/js/runtime-main.604f1aca.js",
+    "runtime-main.js.map": "/fishertask2/static/js/runtime-main.604f1aca.js.map",
+    "static/js/2.a06d313b.chunk.js": "/fishertask2/static/js/2.a06d313b.chunk.js",
+    "static/js/2.a06d313b.chunk.js.map": "/fishertask2/static/js/2.a06d313b.chunk.js.map",
+    "index.html": "/fishertask2/index.html",
+    "precache-manifest.f1be61dcc11138823d66b69fb9d83b5b.js": "/fishertask2/precache-manifest.f1be61dcc11138823d66b69fb9d83b5b.js",
+    "service-worker.js": "/fishertask2/service-worker.js",
+    "static/css/main.f45e64f2.chunk.css.map": "/fishertask2/static/css/main.f45e64f2.chunk.css.map",
+    "static/js/2.a06d313b.chunk.js.LICENSE.txt": "/fishertask2/static/js/2.a06d313b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.604f1aca.js",
+    "static/js/2.a06d313b.chunk.js",
+    "static/css/main.f45e64f2.chunk.css",
+    "static/js/main.b7dd2a63.chunk.js"
+  ]
+}
