@@ -1,6 +1,6 @@
 {
   "taskVersion": "1.0.0",
-  "taskName": "fishertask2",
+  "taskName": "fishertaskd2",
   "debug": false,
   "awsLambda": {
     "saveTaskData": {
