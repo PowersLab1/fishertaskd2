@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/fishertaskd2/static/css/main.f45e64f2.chunk.css",
-    "main.js": "/fishertaskd2/static/js/main.9210f132.chunk.js",
-    "main.js.map": "/fishertaskd2/static/js/main.9210f132.chunk.js.map",
+    "main.js": "/fishertaskd2/static/js/main.79b2f4a5.chunk.js",
+    "main.js.map": "/fishertaskd2/static/js/main.79b2f4a5.chunk.js.map",
     "runtime-main.js": "/fishertaskd2/static/js/runtime-main.e069975e.js",
     "runtime-main.js.map": "/fishertaskd2/static/js/runtime-main.e069975e.js.map",
     "static/js/2.451b1f5d.chunk.js": "/fishertaskd2/static/js/2.451b1f5d.chunk.js",
     "static/js/2.451b1f5d.chunk.js.map": "/fishertaskd2/static/js/2.451b1f5d.chunk.js.map",
     "index.html": "/fishertaskd2/index.html",
-    "precache-manifest.4dc21c8be60016c50eafc656a7b3e70a.js": "/fishertaskd2/precache-manifest.4dc21c8be60016c50eafc656a7b3e70a.js",
+    "precache-manifest.3719584c0ddad7fa93be7348c3986629.js": "/fishertaskd2/precache-manifest.3719584c0ddad7fa93be7348c3986629.js",
     "service-worker.js": "/fishertaskd2/service-worker.js",
     "static/css/main.f45e64f2.chunk.css.map": "/fishertaskd2/static/css/main.f45e64f2.chunk.css.map",
     "static/js/2.451b1f5d.chunk.js.LICENSE.txt": "/fishertaskd2/static/js/2.451b1f5d.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e069975e.js",
     "static/js/2.451b1f5d.chunk.js",
     "static/css/main.f45e64f2.chunk.css",
-    "static/js/main.9210f132.chunk.js"
+    "static/js/main.79b2f4a5.chunk.js"
   ]
 }
